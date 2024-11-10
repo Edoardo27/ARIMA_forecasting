@@ -1,4 +1,4 @@
-# <ins>ARIMA Forecasting</ins>
+# <ins>ARIMA Time Series Forecasting</ins>
 Personal project in which I created a time series forecast by leveraging the auto ARIMA model in Python.
 
 **<ins>Language</ins>**: *Python*
